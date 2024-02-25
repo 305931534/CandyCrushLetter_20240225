@@ -1,0 +1,7 @@
+com\hsbc\candycrushletter\RemoveStrategy.class
+com\hsbc\candycrushletter\common.class
+com\hsbc\candycrushletter\FilterRepeatedChars.class
+com\hsbc\candycrushletter\SolutionFactory.class
+com\hsbc\candycrushletter\ReplaceStrategy.class
+com\hsbc\candycrushletter\BaseStrategy.class
+com\hsbc\candycrushletter\RemoveDuplicateChars.class
